@@ -2,8 +2,15 @@
 
 # === CONFIGURATION ===
 WALLPAPER_DIR="$HOME/Pictures/Pin"
+# add your directory path "$HOME/path/to/your/directory".
+# I have added of my own.
+
+
 TRANSITION_TYPE="center"
-FPS=60
+# you can change the transition type eg:- "center", "outer", "random" etc.
+
+
+FPS=60 
 DURATION=1.0
 
 # === GET A RANDOM WALLPAPER ===
@@ -15,3 +22,4 @@ swww img "$wallpaper" \
     --transition-fps "$FPS" \
     --transition-duration "$DURATION"
 
+# use the script as you like.
