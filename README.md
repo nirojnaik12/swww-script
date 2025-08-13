@@ -11,5 +11,7 @@ I love to use vim so, ``` vim hyprland.conf```
 
 now add the line in keybinding section.``` bind = SUPER, W, exec, /path/to/scirpt/directory/script.sh```
 
-In my case I've separeted the config files for my ease ,you can check them or use them if you like from (my repo)[https://github.com/nirojnaik12/hyprlandDotfile] of hyprland
+In my case I've separeted the config files for my ease ,you can check them or use them if you like from [my repo](https://github.com/nirojnaik12/hyprlandDotfile) of hyprland
 just go to the keybinding.conf in hyprConfigFiles in hypr directory.
+
+If you want to know more or customize it, please check out these [examples](https://github.com/LGFae/swww/tree/main/example_scripts).
