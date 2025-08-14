@@ -22,4 +22,4 @@ swww img "$wallpaper" \
     --transition-fps "$FPS" \
     --transition-duration "$DURATION"
 
-# use the script as you like.
+# use the script as you prefer.
