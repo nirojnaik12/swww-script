@@ -28,4 +28,4 @@ bind = SUPER, W, exec, /path/to/script/directory/script.sh
 
 In my setup, I’ve separated my configuration files for convenience. You can check or use them if you want — they’re available in my [Hyprland repo](https://github.com/nirojnaik12/hyprlandDotfile). Just go to keybinding.conf inside hyprConfigFiles.
 
-If you want to learn more or customize your setup, please check out the [example](https://github.com/LGFae/swww/tree/main/example_scripts) configs I’ve shared.
+If you want to learn more or customize your setup, please check out the [example](https://github.com/LGFae/swww/tree/main/example_scripts) configs.
