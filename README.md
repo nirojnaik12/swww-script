@@ -20,7 +20,6 @@ vim hyprland.conf
 ```
 Now, in the keybinding section, add the following line:
 
-bash
 ```
 bind = SUPER, W, exec, /path/to/script/directory/script.sh
 ```
